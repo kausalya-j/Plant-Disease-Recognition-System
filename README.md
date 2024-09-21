@@ -36,3 +36,6 @@ Train (70295 images)
 Test (33 images)
 
 Validation (17572 images)
+
+Link: https://plant-disease-recognition-system.streamlit.app/
+
